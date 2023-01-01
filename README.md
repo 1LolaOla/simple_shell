@@ -1,4 +1,5 @@
 # A README file for the Simple-Shell Project
+
 C Group project Syscall
 Background Context
 Write a simple UNIX command interpreter.
@@ -117,6 +118,7 @@ $ cat test_ls_2 | ./hsh
 hsh main.c shell.c test_ls_2
 hsh main.c shell.c test_ls_2
 $
+
 TASKS [This shell works for the first 10 tasks for now]
 betty would be proud
 Write a beautiful code that passes the Betty checks
